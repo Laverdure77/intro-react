@@ -1,0 +1,17 @@
+.inputField {
+
+    color: red;
+}
+form{
+    padding: 1em;
+    color: red;
+}
+input{
+    color: orange;
+}
+.btn{
+    padding: 1em;
+    color: white;
+    border-radius: 5px;
+    background-color:blueviolet;
+}

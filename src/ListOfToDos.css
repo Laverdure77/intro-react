@@ -1,0 +1,14 @@
+h3 {
+    color: yellowgreen;
+}
+ul{
+    padding: .5em;
+    display:flex;
+    list-style-type:none;
+}
+li{
+    color: yellow;
+}
+.listToDos{
+    padding: 2em;
+}
